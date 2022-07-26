@@ -1,0 +1,2 @@
+# Point-Line_Csharp
+Point and Line with the concept of object-oriented programming | class called MyLine, which models a line with a begin point at (x1, y1) and an end point at (x2, y2), is designed as shown in the class diagram. The MyLine class uses two MyPoint instances (written in the earlier exercise) as its begin and end points. Write the MyLine class. Also write a test driver to test all the public methods in the MyLine class. Use distance formula to calculate the length of the line
