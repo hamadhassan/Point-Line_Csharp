@@ -1,0 +1,24 @@
+D:\COMPUTER SCIENCE\PD\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\PointAndLine\obj\Debug\PointAndLine.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\PointAndLine\bin\Debug\PointAndLine.exe.config
+D:\COMPUTER SCIENCE\PD\PointAndLine\bin\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\PointAndLine\bin\Debug\PointAndLine.pdb
+D:\COMPUTER SCIENCE\PD\PointAndLine\obj\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\PointAndLine\obj\Debug\PointAndLine.pdb
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\bin\Debug\PointAndLine.exe.config
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\bin\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\bin\Debug\PointAndLine.pdb
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\obj\Debug\PointAndLine.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\obj\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\Done\PointAndLine\obj\Debug\PointAndLine.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\obj\Debug\PointAndLine.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\obj\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\obj\Debug\PointAndLine.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\bin\Debug\PointAndLine.exe.config
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\bin\Debug\PointAndLine.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Point and Line\Code\PointAndLine\bin\Debug\PointAndLine.pdb
